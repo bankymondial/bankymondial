@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bankymondial
 - 👀 I’m interested in Data Analytics and Machine Learning.
-- 🌱 I’m currently learning Machine Learning with Python.
+- 🌱 I’m currently exploring Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
